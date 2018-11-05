@@ -1,8 +1,6 @@
 # Adhan+Sonos
 This Bash script will install salat times as a crontab and plays adhan on your Sonos speakers on given times. 
 
-![](http://yxdesign.nl/images/github/adhansonos-crontab.png)
-
 # Required Software
 - SONOS HTTP API (https://github.com/jishi/node-sonos-http-api).
 - jq (script will install jq automatically if it is not installed).
