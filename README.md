@@ -9,6 +9,7 @@ This Bash script will install salat times as a crontab and plays adhan on your S
 - Pushover.net for notifications.
 
 # Features
+- Uses crontab for salat times and removes automatically. 
 - Plays static or random adhan.
 - Customizable spoken preannouncement before adhan (can be turned off).
 - Has day and night mode for volume.
