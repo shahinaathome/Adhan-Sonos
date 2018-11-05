@@ -20,4 +20,7 @@ This Bash script will install salat times as a crontab and plays adhan on your S
   - When it is time for salat.
 - Notficiations can be turned off.
 
+# Download adhan
+https://islam4universe.wordpress.com/dounloads/islamic-audio-and-video/azan-adhan-mp3-downloads/
+
 please make sure you .sh file has execute permissions!
