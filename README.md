@@ -5,6 +5,7 @@ This Bash script will install salat times as a crontab and plays adhan on your S
 # Required Software
 - SONOS HTTP API (https://github.com/jishi/node-sonos-http-api).
 - jq (script will install jq automatically if it is not installed).
+- Using API from https://aladhan.com.
 
 # Optional Software
 - Pushover.net for notifications.
