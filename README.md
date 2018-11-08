@@ -1,4 +1,4 @@
-![](http://yxdesign.nl/images/github/adhan+sonos_logo.pn)
+![](http://yxdesign.nl/images/github/adhan+sonos_logo.png)
 
 This Bash script will install salat times as a crontab and plays adhan on your Sonos speakers on given times. 
 
